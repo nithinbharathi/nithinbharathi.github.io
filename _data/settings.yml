@@ -3,7 +3,6 @@ menu:
 - {name: 'cv', url: '/cv'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/nithinbharathi'}
+- {icon: 'twitter', link: 'https://twitter.com/'}
+- {icon: 'linkedin', link: 'https://linkedin.com/'}

@@ -1,6 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'resume', url: '/cv'}
+- {name: 'project', url: '"#ProjectSection"'}
 
 social:
 - {icon: 'github', link: 'https://github.com/nithinbharathi'}

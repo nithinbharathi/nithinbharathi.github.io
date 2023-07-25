@@ -11,10 +11,10 @@ body {
   font-family: $bodyFont;
 }
 
-body a {
+ a:link .style1 {
   color: $linkColor
 }
 
-a:link style2 {
+a:link .style2 {
   color: $linkColor2
 }

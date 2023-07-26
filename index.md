@@ -2,4 +2,4 @@
 layout: home
 title: "Home"
 ---
-I am a graduate student studying Computer Science at Dalhousie University. My interests revolve around algorithmic complexity, data structures, computer vision, and NLP. Prior to this, I also worked as a Software Engineer at Odessa.Inc
+I am a graduate student studying Computer Science at Dalhousie University. My interests revolve around <strong>algorithmic complexity, data structures, computer vision, and NLP </strong>. Prior to this, I also worked as a Software Engineer at Odessa.Inc

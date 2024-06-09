@@ -44,7 +44,8 @@ layout: default
     <p class = "fs-6"><a href ="https://github.com/nithinbharathi/JMatrix" class = "style2" > JMatrix </a> is a Java package that is designed for working with 2-dimensional matrices efficiently. 
       It consists of methods that support parallel execution of Numerical calculations to improve the performance.
       The current implementation supports operations for all the wrapper classes that extend the Number 
-      class in java and uses bounded generics to enforce type check during compile time.
+      class in java and uses bounded generics to enforce type check during compile time. Additionally,the arithmetic operations (non-parallel) also support broadcasting 
+      similar to numpy library by allowing different matrix shapes to be involved in the computation if they satisfy the broadcasting rules.
     </p>
     
    <p> <a href = "https://github.com/nithinbharathi/Scalargrad" class = "style2" > Scalargrad </a> is a reverse automatic differentiation system that supports simple arithmetic operations

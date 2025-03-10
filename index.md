@@ -33,7 +33,7 @@ The following are a collection of technical links that I have found to be intere
 
 - Jeff Dean's talk on google's infrastructure **[Technology at Google](https://www.youtube.com/watch?v=modXC5IWTJI)** and techniques for reducing response times in large scale distributed systems **[Achieving Rapid Response Times](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)**.
 - **[Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)**: An interesting course that covers case study's about the various system architectures in use.
-- We all love to write fast code and this course Performance Engineering of Software Systems helped me understand the concepts involved in writing high performance software.
+- We all love to write fast code and this course **[Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)** helped me understand the concepts involved in writing high performance software.
 - **[LSM](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)**: Everything you will need to understand about the widely used Log Structured Merge Trees.
 - Andrej Karpathy's wonderful **[Neural Network: Zero to Hero collection](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**. I would highly recommend this playlist to anyone looking to get started with deep learning.
 

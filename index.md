@@ -2,31 +2,28 @@
 layout: homepage
 ---
 
-## About Me
-I am a graduate student studying Computer Science. My interests revolve around **Algorithmic Complexity, Data Structures, Software Engineering, and Distributed Systems**. Prior to this, I also worked as a Software Engineer at Odessa Inc.
+## About
+I am a graduate student studying Computer Science. My interests revolve around **Algorithmic Complexity, Data Structures, Software Engineering, and Distributed Systems**. Prior to this, I also worked as a Software Engineer at Odessa Inc. I enjoy working across multiple languages and am most comfortable with C, Java, Python, and C#.
 
 ## Experience
 **Odessa Inc. - Software Engineer II**  
-At odessa, I was part of the data migration team wherein I worked on enhancing Odessa's Data Migration tool by implementing additional product functionalities, improving the performance of existing modules and developed new migration modules. I also architected and developed the company's first ever distributed data orchestration job for large scale data transfer.
+I was part of the Data Migration team, where I contributed to enhancing the in-house migration tool by designing new product functionalities, optimizing performance, and building custom migration modules. I also designed and implemented the company's first distributed data orchestration job to handle large-scale data transfers.
 
-Besides, I also spent a significant amount of time working on bug fixes, writing stored procedures, tuning expensive queries, creating test scenarios, working closely with junior developers, assisting them, and handling production release activities for the team.
+In addition, I worked on fixing bugs, writing and optimizing stored procedures, tuning slow SQL queries, creating test scenarios, mentoring junior developers, and supporting production releases.
 
 ## Projects
 
-**[Wordgen](https://github.com/nithinbharathi/wordgen)** -  character-level language models which predict the next character given a sequence of characters as input. In addition to the core MLP architecture, Wordgen also integrates an attention mechanism coded from scratch.  
+See my [Github profile](https://github.com/nithinbharathi) for my open-sourced code. Some of the projects I have worked on: 
 
-**[JMatrix](https://github.com/nithinbharathi/JMatrix)** - Java package that is designed for parallel execution of numerical calculations with 2-dimensional matrices efficiently. Operations (non-parallel) also support broadcasting similar to Python's numpy library.
+- A **[Character level language model](https://github.com/nithinbharathi/wordgen)** that predicts the next character given a sequence of characters. In addition to the core MLP architecture, implemented the attention mechanism from scratch.  
 
+- A **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
 
-**[Scalargrad](https://github.com/nithinbharathi/Scalargrad)** - reverse automatic differentiation engine that supports simple arithmetic operations on scalar values. A directed acyclic graph records each operation which is later used in computing the derivatives during backpropagation.  
+- An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C for pedagogical purposes 
 
-**[Versioneer](https://github.com/nithinbharathi/Versioneer)** - a simple version control system built in Java. Inspired by Git, Versioneer offers functionalities such as init, add, commit, and showdiff.  
+- A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** in Python for scalar arithmetic
 
-**[PatternMatchingSuite](https://github.com/nithinbharathi/pattern-matching-suite)** - FM-index for large DNA sequences. It is highly space-efficient as it uses bit vectors internally for in memory storage and supports search operations like MEM finding and counting occurences of a pattern by using optimised algorithms.   
-
-**[C-STL](https://github.com/nithinbharathi/c-stl)** - C++ STL like library built using C. It currently supports hashtable, linkedlist, stack and queue. This project is a work in progress, with plans to expand and incorporate additional data structures and algorithms.     
-
-**[BoringLang](https://github.com/nithinbharathi/boring-lang)** - minimalistic programming language developed in Java, designed to explore the fundamentals of language design and compiler construction.
+- **[FM index implementation](https://github.com/nithinbharathi/pattern-matching-suite)** for maximal exact match finding and frequency counting.   
 
 ## Misc Links
 The following are a collection of technical links that I have found to be interesting.

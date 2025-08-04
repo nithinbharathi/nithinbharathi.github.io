@@ -13,16 +13,12 @@ In addition, I worked on fixing bugs, writing and optimizing stored procedures, 
 
 ## Projects
 
-See my [Github profile](https://github.com/nithinbharathi) for my open-sourced code. Some of the projects I have worked on: 
+See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourced code. Some of the projects I have worked on: 
 
 - A **[Character level language model](https://github.com/nithinbharathi/wordgen)** that predicts the next character given a sequence of characters. In addition to the core MLP architecture, implemented the attention mechanism from scratch.  
-
 - A **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
-
 - An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C for pedagogical purposes 
-
 - A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** in Python for scalar arithmetic
-
 - **[FM index implementation](https://github.com/nithinbharathi/pattern-matching-suite)** for maximal exact match finding and frequency counting.   
 
 ## Misc Links

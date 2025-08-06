@@ -2,7 +2,11 @@
 layout: homepage
 ---
 
+![](ai.gif)
+
 ## About
+
+
 I am a graduate student studying Computer Science. My interests revolve around **Algorithmic Complexity, Data Structures, Software Engineering, and Distributed Systems**. Prior to this, I also worked as a Software Engineer at Odessa Inc. I enjoy working across multiple languages and am most comfortable with *C, Java, Python, and C#*.
 
 ## Experience

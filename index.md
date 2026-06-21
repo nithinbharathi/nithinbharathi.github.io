@@ -7,23 +7,22 @@ layout: homepage
 ## About
 
 
-I am a graduate student studying Computer Science. My interests revolve around **Algorithmic Complexity, Data Structures, Software Engineering, and Distributed Systems**. Prior to this, I also worked as a Software Engineer at Odessa Inc. I enjoy working across multiple languages and am most comfortable with *C, Java, Python, and C#*.
+I have a graduate degree in Computer Science. My research focused on using RAG to improve code completion in private codebases. Previously, I worked as a Software Engineer at Odessa Inc.
+
+I’m currently looking for software engineering opportunities.
 
 ## Experience
 **Odessa Inc. - Software Engineer II**  
-I was part of the Data Migration team, where I contributed to enhancing the in-house migration tool by designing new product functionalities, optimizing performance, and building custom migration modules. I also designed and implemented the company's first distributed data orchestration job to handle large-scale data transfers.
-
-In addition, I worked on fixing bugs, writing and optimizing stored procedures, tuning slow SQL queries, creating test scenarios, mentoring junior developers, and supporting production releases.
+I worked on the core data migration infrastructure and internal developer tooling, building reliable systems for large-scale data movement and contributing across performance optimization, product features, and production fixes.
 
 ## Projects
 
-See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourced code. Some of the projects I have worked on: 
+See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourced code. Here are a few of my recent projects:
 
-- A **[Character level language model](https://github.com/nithinbharathi/wordgen)** that predicts the next character given a sequence of characters. In addition to the core MLP architecture, implemented the attention mechanism from scratch.  
+- A **[Character level language model](https://github.com/nithinbharathi/rapgpt)** trained on Eminem lyrics for rap generation.  
 - A **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
-- An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C for pedagogical purposes 
+- An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C 
 - A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** in Python for scalar arithmetic
-- **[FM index implementation](https://github.com/nithinbharathi/pattern-matching-suite)** for maximal exact match finding and frequency counting.   
 
 ## Misc Links
 The following are a collection of technical links that I have found to be interesting.

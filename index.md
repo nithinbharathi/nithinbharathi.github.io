@@ -7,9 +7,9 @@ layout: homepage
 ## About
 
 
-I have a graduate degree in Computer Science. My research focused on using RAG to improve code completion in private codebases. Previously, I worked as a Software Engineer at Odessa Inc.
+I have a graduate degree in Computer Science. My research was focused on using RAG to improve code completion in private codebases. Previously, I worked as a Software Engineer at Odessa Inc.
 
-I’m currently looking for software engineering opportunities.
+*I’m currently looking for software engineering opportunities.*
 
 ## Experience
 **Odessa Inc. - Software Engineer II**  

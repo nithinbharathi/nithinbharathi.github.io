@@ -19,7 +19,7 @@ I worked on the core data migration infrastructure and internal developer toolin
 
 See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourced code. Here are a few of my recent projects:
 
-- A **[Character level language model](https://github.com/nithinbharathi/rapgpt)** trained on Eminem lyrics for rap generation.  
+- A **[Character level language model](https://github.com/nithinbharathi/rapgpt)** trained from scratch for rap generation.  
 - A **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
 - An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C 
 - A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** in Python for scalar arithmetic
@@ -28,7 +28,7 @@ See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourc
 The following are a collection of technical links that I have found to be interesting.
 
 - Jeff Dean's talk on google's infrastructure **[Technology at Google](https://www.youtube.com/watch?v=modXC5IWTJI)** and techniques for reducing response times in large scale distributed systems **[Achieving Rapid Response Times](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)**.
-- **[Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)**: An interesting course that covers case study's about the various system architectures in use.
+- **[Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)**
 - **[Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)** 
 - **[LSM](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)**: Everything you will need to understand about the widely used Log Structured Merge Trees.
 - Andrej Karpathy's wonderful **[Neural Network: Zero to Hero collection](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)**. I would highly recommend this playlist to anyone looking to get started with deep learning.

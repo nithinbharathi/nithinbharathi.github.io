@@ -19,10 +19,10 @@ I worked on the core data migration infrastructure and internal developer toolin
 
 See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourced code. Here are a few of my recent projects:
 
-- A **[Character level language model](https://github.com/nithinbharathi/rapgpt)** trained from scratch for rap generation.  
-- A **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
-- An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)** implemented in C 
-- A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** in Python for scalar arithmetic
+- **[Character level language model](https://github.com/nithinbharathi/rapgpt)** trained from scratch for rap generation
+- **[linear algebra package for Java](https://github.com/nithinbharathi/JMatrix)**  
+- An in-memory **[key-value store](https://github.com/nithinbharathi/kv_store)**
+- A **[reverse automatic differentiation engine](https://github.com/nithinbharathi/Scalargrad)** for scalar arithmetic
 
 ## Misc Links
 The following are a collection of technical links that I have found to be interesting.

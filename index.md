@@ -27,7 +27,7 @@ See my **[Github profile](https://github.com/nithinbharathi)** for my open-sourc
 ## Misc Links
 The following are a collection of technical links that I have found to be interesting.
 
-- Jeff Dean's talk on google's infrastructure **[Technology at Google](https://www.youtube.com/watch?v=modXC5IWTJI)** and techniques for reducing response times in large scale distributed systems **[Achieving Rapid Response Times](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)**.
+- Jeff Dean's talk on **[google's infrastructure](https://www.youtube.com/watch?v=modXC5IWTJI)** and techniques for **[reducing rapid response times in large scale distributed systems](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)**.
 - **[Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PL4YhK0pT0ZhXTRSAYHAgBcJkhlM2hlhw3)**
 - **[Performance Engineering of Software Systems](https://www.youtube.com/watch?v=o7h_sYMk_oc&list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf)** 
 - **[LSM](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)**: Everything you will need to understand about the widely used Log Structured Merge Trees.

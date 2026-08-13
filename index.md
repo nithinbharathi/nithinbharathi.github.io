@@ -13,7 +13,7 @@ I have a graduate degree in Computer Science. My research was focused on using R
 
 ## Experience
 **Odessa Inc. - Software Engineer II**  
-I worked on the core data migration infrastructure and internal developer tooling, building reliable systems for large-scale data movement and contributing across performance optimization, product features, and production fixes.
+I worked on the core data migration infrastructure and internal developer tooling, contributing across performance optimization, product features, and production fixes.
 
 ## Projects
 

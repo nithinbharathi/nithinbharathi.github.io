@@ -4,14 +4,8 @@ layout: homepage
 
 ![](ai.gif)
 
-## About
 
-
-I have a graduate degree in Computer Science. My research was focused on using RAG to improve code completion in private codebases. Previously, I worked as a Software Engineer at Odessa Inc.
-
-## Experience
-**Odessa Inc. - Software Engineer II**  
-I worked on the core data migration infrastructure and internal developer tooling, contributing across performance optimization, product features, and production fixes.
+Software engineer at Virtual Hallway. Drawn to systems programming and the problems that live close to the machine. Previously built scalable data migration systems and developer tooling at Odessa Inc.
 
 ## Projects
 

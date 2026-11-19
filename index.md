@@ -7,7 +7,7 @@ layout: homepage
 <br>
 
 
-Software engineer at **[Virtual Hallway](https://virtualhallway.ca/research/)** and I am drawn to systems programming and problems that sit beneath the abstracions. Previously built scalable data migration systems and developer tooling at **[Odessa Inc](https://www.odessainc.com/)**.
+Software engineer at **[Virtual Hallway](https://virtualhallway.ca/research/)** and I am drawn to systems programming, especially performance and reliability. Previously built scalable data migration systems and developer tooling at **[Odessa Inc](https://www.odessainc.com/)**.
 
 ## Projects
 

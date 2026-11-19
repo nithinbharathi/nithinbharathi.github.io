@@ -2,10 +2,12 @@
 layout: homepage
 ---
 
-![](ai.gif)
+![](ai.gif) 
+
+<br>
 
 
-Software engineer at Virtual Hallway. Drawn to systems programming and the problems that live close to the machine. Previously built scalable data migration systems and developer tooling at Odessa Inc.
+Software engineer at [Virtual Hallway](https://virtualhallway.ca/research/). Drawn to systems programming and problems that sit beneath the abstracions. Previously built scalable data migration systems and developer tooling at [Odessa Inc](https://www.odessainc.com/).
 
 ## Projects
 

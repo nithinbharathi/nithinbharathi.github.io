@@ -34,9 +34,27 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <style>
+      body { overflow-x: hidden; }
+      .wrapper { display: flow-root; }
+      #stage { position: relative; width: 100vw; margin-left: calc(50% - 50vw); height: 300px; }
+      #tornado { display: block; width: 100%; height: 100%; }
+      #typing { position: absolute; bottom: 8%; left: 50%; transform: translateX(-50%); font-family: monospace; font-size: 16px; white-space: nowrap; }
+      #cursor { display: inline-block; width: 1ch; height: 1.1em; margin-left: 2px; vertical-align: text-bottom; background: currentColor; animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { #cursor { animation: none; } }
+      .image.avatar img { box-sizing: border-box; width: 116px; padding: 6px; background: #fff; }
+      @media (prefers-color-scheme: dark) { .image.avatar img { background: #20212b; } }
+      @media (min-width: 961px) { header { position: sticky; top: 0; margin-top: -140px; } }
+      @media (max-width: 960px) { #stage { height: 220px; } #typing { bottom: auto; top: 8%; } header { position: relative; z-index: 1; margin-top: -58px; } .image.avatar img { width: 116px; } }
+    </style>
   </head>
   <body>
     <div class="wrapper">
+      <div id="stage" data-text="AI is eating the world" aria-hidden="true">
+        <canvas id="tornado"></canvas>
+        <div id="typing"><span id="typed"></span><span id="cursor"></span></div>
+      </div>
       <header>
         
         {% if site.avatar %}
@@ -108,6 +126,7 @@
         
       </footer>
     </div>
+    <script src="./assets/js/tornado.js"></script>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
